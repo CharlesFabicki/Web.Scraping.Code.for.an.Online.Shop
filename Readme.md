@@ -14,8 +14,7 @@ Before running the script, make sure you have the following:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/web-scraping-selenium.git
-cd web-scraping-selenium
+git clone https://github.com/CharlesFabicki/Web.Scraping.Code.for.an.Online.Shop.git
 ```
 Install the required Python packages:
 ```bash
@@ -48,9 +47,6 @@ Thanks to the Selenium team for the powerful web automation library.
 ## License
 License. See LICENSE.
 
-Copy code
-
-Mam nadzieję, że ten przykład spełnia Twoje oczekiwania.
 
 
 
