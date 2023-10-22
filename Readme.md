@@ -43,11 +43,17 @@ Adjust the data extraction logic as needed.
 Contributing
 Contributions are welcome! For issues or enhancements, open an issue or pull request.
 
-## Acknowledgements
-Thanks to the Selenium team for the powerful web automation library.
+## Note
+Web scraping may be subject to terms of use of the website. Make sure to review and comply with the website's terms and policies before scraping.
+Ensure you are respectful of the website's resources and do not overload their server with excessive requests.
+
+## Acknowledgments
+This script was created for educational purposes as an example of web scraping using Selenium. It may be further customized and extended to suit specific scraping requirements.
+
+Feel free to contribute to the repository and make improvements!
 
 ## License
-License. See LICENSE.
+License. See MIT LICENSE.
 
 
 
