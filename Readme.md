@@ -25,7 +25,9 @@ pip install selenium
 Open web_scraping_script.py and locate the url variable to set the target URL.
 
 Run the script:
+```
 python web_scraping_script.py
+```
 
 The script will open Microsoft Edge, navigate to the URL, extract data, and save it as scraped_data.csv.
 Output
